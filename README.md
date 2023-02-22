@@ -4,7 +4,7 @@ Roll no : 12
  
 Lab and assignment of EAD
 
-- [Assignment 1 - Student Management System](https://github.com/arunkc72/EAD/tree/main/assignments/assignment1)
+- [Assignment 1 - Student Management System](https://github.com/arunkc72/EAD_LAB/tree/main/assignments/assignment1)
 
 
 - [Lab works](https://github.com/arunkc72/EAD/tree/main/labs)
